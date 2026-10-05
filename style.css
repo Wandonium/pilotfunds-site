@@ -1,0 +1,7 @@
+:root { color-scheme: light dark; }
+body { margin: 0; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; background: Canvas; color: CanvasText; }
+main { max-width: 680px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 2rem; margin-bottom: 0.25em; }
+h2 { font-size: 1.2rem; margin-top: 2em; }
+code { font-size: 0.9em; }
+nav { margin-top: 2.5em; }
